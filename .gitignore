@@ -9,7 +9,6 @@ dist/
 .ruff_cache/
 
 # Experiment artifacts and machine-local configuration
-outputs/
 runs/
 run-logs/
 checkpoints/
